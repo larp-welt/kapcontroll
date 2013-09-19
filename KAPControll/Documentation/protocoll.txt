@@ -1,0 +1,28 @@
+
+Commands:
+
+    // <comment>
+        Just a comment, useful for "scripting" KAPControll
+
+    LED <ON|OFF>
+        Switch LED on (ON), off (OFF) or shows current state of the LED on 
+        Arduino.
+        
+        Use as sort of a ping to your kap firmware.
+    PRT <text>
+        Just outputs some text.
+
+    SHW [RC <0...7>|RAM]
+        RC <0..7> Shows the value of the RCx channel.
+        RAM shows free RAM.
+
+    MDE <AUTO|PANO|RC|CAL>
+        Sets mode of operation, or show current mode.
+
+    WRT
+        Write configuration to EEPROM.
+
+    PID <<PAN|TILT> <P I D>>
+        Sets or shows PID values.
+
+    CAL [ACC|RC]

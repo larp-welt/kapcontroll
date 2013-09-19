@@ -1,0 +1,4 @@
+// Outputs settings. This output can be saved and 
+// used as script to restore this settings.
+LED
+MODE

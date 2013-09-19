@@ -1,0 +1,21 @@
+Arduino 1.0.4
+
+config.h leer, bleibt das so?
+Roll zur Zeit nicht genutzt!
+
+Eingangs-Kanäle:
+    Pan
+    Tilt
+    Shot
+    Zoom
+    Exposure
+    Mode
+
+
+Summensignal
+    Pro Mini: Int.0     Pin 2
+
+
+Libraries
+    http://www.i2cdevlib.com/
+    http://awtfy.com/2011/05/23/a-minimal-arduino-library-for-processing-serial-commands/

@@ -1,0 +1,14 @@
+// This is a comment!
+// allways and it with an empty line!
+ECHO >>> start of script
+ECHO
+LED
+LED OFF
+LED
+SHOW RC
+SHOW RC 7
+SHOW RAM
+LED ON
+LED
+ECHO
+ECHO <<< end of script
